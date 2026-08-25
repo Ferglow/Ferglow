@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
+![Logo](https://www.canva.com/design/DAHTQa67_vA/jY9l6pauo8xlPgk__hbSQQ/view)
+
+
+
 ## 🚀 About Me
 # Hey, I'm Fernando! 👋
 
