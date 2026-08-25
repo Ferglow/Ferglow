@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 ![carga image-to-url](https://www.image2url.com/r2/default/images/1787623080074-6178cea2-a56d-40c0-8d2c-4a54ba47e263.png)
 
+<img width="2752" height="1536" alt="fullstack-dev-banner" src="https://github.com/user-attachments/assets/d2c81ea1-e647-46cb-86ef-c21d28dc1d66" />
+
+
 
 ## 🚀 About Me
 # Hey, I'm Fernando! 👋
