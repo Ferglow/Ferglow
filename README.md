@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hey, I'm Fernando!
+
+## Authors
+
+- [@octokatherine](https://www.github.com/Ferglow)
+
+
+# GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ferglow&theme=transparent)](https://git.io/streak-stats)
