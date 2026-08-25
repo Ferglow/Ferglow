@@ -17,17 +17,7 @@ Here are some ideas to get you started:
 
 
 
-![Logo](h<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAHTQa67_vA/jY9l6pauo8xlPgk__hbSQQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAHTQa67_vA&#x2F;jY9l6pauo8xlPgk__hbSQQ&#x2F;view?utm_content=DAHTQa67_vA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Diseño</a> de Ferdinand Andres)
-
-
-
+![carga image-to-url](https://www.image2url.com/r2/default/images/1787623080074-6178cea2-a56d-40c0-8d2c-4a54ba47e263.png)
 
 
 ## 🚀 About Me
