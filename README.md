@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 # Hey, I'm Fernando!
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/Ferglow)
+- [@Ferglow](https://www.github.com/Ferglow)
 
 
 # GitHub Stats
